@@ -1,4 +1,4 @@
-id,limit_saldo,jenis_kelamin,tingkat_pendidikan,status_pernikahan,usia,gaga_bayar_bulan_depan
+id,limit_saldo,jenis_kelamin,tingkat_pendidikan,status_pernikahan,usia,gagal_bayar_bulan_depan
 1,20000,2,2,1,24,1
 2,120000,2,2,2,26,1
 3,90000,2,2,2,34,0
